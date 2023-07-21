@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.category.category.service.CategoryServiceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-07-08T10:42:58" hostname="RISHABH-PC" time="3.058">
+  <properties/>
+  <testcase name="findIncomeById()" classname="com.example.category.category.service.CategoryServiceTest" time="2.927"/>
+  <testcase name="updateData()" classname="com.example.category.category.service.CategoryServiceTest" time="0.039"/>
+  <testcase name="savecategory()" classname="com.example.category.category.service.CategoryServiceTest" time="0.01"/>
+  <testcase name="updateCategory_nonExistingCategory()" classname="com.example.category.category.service.CategoryServiceTest" time="0.039"/>
+  <testcase name="deleteCategory_nonExistingCategory()" classname="com.example.category.category.service.CategoryServiceTest" time="0.009"/>
+  <testcase name="deleteById()" classname="com.example.category.category.service.CategoryServiceTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
